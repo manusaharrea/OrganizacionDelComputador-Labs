@@ -1,5 +1,5 @@
 # OrganizacionDelComputador-Labs
-##Ejercicio 1
+## Ejercicio 1
 Escribir un programa en assembler ARMv8 sobre el código de ejemplo dado, que genere
 una imagen diseñada por el grupo. Luego, utilizar al menos una de las teclas disponibles
 para cambiar alguna característica de la imagen (agregar o mover alguna figura, cambiar un
@@ -17,7 +17,7 @@ procedimientos para dibujar figuras básicas (círculos, rectángulos, líneas, 
 etc.) parametrizadas. No está permitido implementar un código que levante una
 imagen mapeada en memoria.
 - La imagen debe poder explicarse en dos líneas de texto.
-##Ejercicio 2
+## Ejercicio 2
 Escribir un programa en assembler ARMv8 que genere una animación por pantalla, siendo
 posible reutilizar el código del ejercicio 1 pero considerando que la secuencia de movimiento
 debe tener una duración no menor a 10 segundos (pudiendo no concluir jamás). Utilizar las
